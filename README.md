@@ -84,9 +84,9 @@
 
 *Приведите ответ в свободной форме.*
 
-* Кластеры высокой доступности (High-availability clusters, HA);
-* Кластеры с балансировкой нагрузки (Load balancing clusters);
-* Высокопроизводительные кластеры (High performance computing clusters, HPC).
+1 Кластеры высокой доступности (High-availability clusters, HA);
+2 Кластеры с балансировкой нагрузки (Load balancing clusters);
+3 Высокопроизводительные кластеры (High performance computing clusters, HPC).
 
  * Кластеры высокой доступности (High-availability clusters, HA)
 Кластеры высокой доступности НА (high-availability cluster) известны также как отказоустойчивые (failover) кластеры, построенные по схеме сети с большой 
